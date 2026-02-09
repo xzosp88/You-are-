@@ -1,0 +1,11 @@
+{
+  "appId": "com.xzosp88.Youare",
+  "appName": "You-are-",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "android": {
+    "allowMixedContent": true
+  },
+  "cordova": {}
+}
